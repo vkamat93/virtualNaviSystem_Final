@@ -1,0 +1,5 @@
+SHOPPING;growel;Best mall in the world;19;18
+RESTAURANT;mensa HDA;Best mensa in the world;10;20
+RESTAURANT;subway;best sandwiches;4,5
+SIGHTSEEING;frankenstein;best castle on hills;45,90
+SHOPPING;infinity;biggest mall;12,2

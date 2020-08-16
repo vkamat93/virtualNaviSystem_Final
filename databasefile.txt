@@ -1,0 +1,42 @@
+#{
+ "waypoints": [
+    {
+     "name": "amsterdam",
+     "latitude": 52.3667,
+     "longitude": 4.9
+    },
+    {
+     "name": "berlin",
+     "latitude": 52.5166,
+     "longitude": 13.4
+    },
+    {
+     "name": "darmstadt",
+     "latitude": 49.8667,
+     "longitude": 8.65
+    }
+ ],
+ "pois": [
+    {
+     "name": "growel",
+     "latitude": 19,
+     "longitude": 18,
+     "type": "SHOPPING",
+     "description": "Best mall in the world"
+    },
+    {
+     "name": "mensa HDA",
+     "latitude": 10,
+     "longitude": 20,
+     "type": "RESTAURANT",
+     "description": "Best mensa in the world"
+    },
+    {
+     "name": "sitte",
+     "latitude": 11,
+     "longitude": 22,
+     "type": "RESTAURANT",
+     "description": "More expensive but also good"
+    }
+ ]
+}

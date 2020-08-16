@@ -1,0 +1,5 @@
+amsterdam;52.3667;4.9
+barcelona;23.6,69
+berlin;52.5166;13.4
+prague;78.9;76.2
+rome;34.99,23
